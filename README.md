@@ -1,4 +1,4 @@
-# Healthcare_Cost_Analysis_Classification_Problem
+# Healthcare_Cost_Analysis
 
 This notebook contains a classification problem to analyse if cost of healthcare is affected based on below paramters or not.
 
